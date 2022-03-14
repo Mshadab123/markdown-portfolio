@@ -1,1 +1,3 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+# this is new image 
+## im doing this first time 
+###### let see
