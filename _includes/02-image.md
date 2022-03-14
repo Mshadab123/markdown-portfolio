@@ -1,3 +1,1 @@
-# this is new image 
-## im doing this first time 
-###### let see
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
